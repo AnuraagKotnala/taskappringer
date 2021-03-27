@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324774936761",
+    "project_id": "taskappringer-20dad",
+    "storage_bucket": "taskappringer-20dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324774936761:android:5fa368290cb902a4e6db68",
+        "android_client_info": {
+          "package_name": "com.example.taskappringer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQl3fcL0TXaqhFMMxKruy8LzgX29EYTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

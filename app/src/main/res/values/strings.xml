@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">taskappringer</string>
+
+    <string name="ob_header1">Employee</string>
+    <string name="ob_header2">Mark Attendance</string>
+    <string name="ob_header3">Attendance Report and salary calculation</string>
+    <string name="ob_header4">Notification</string>
+    <string name="ob_header5">Reminder</string>
+    <string name="ob_desc1">Add your employees &amp; their time slots and more.</string>
+    <string name="ob_desc2">Employee have to mark their attendance with simple tap when they come at or left work place.</string>
+    <string name="ob_desc3">Check month wise attendance records.You can also export the attendance records and share it.</string>
+    <string name="ob_desc4">Admin get notification when any selected employees mark their attendance and also send their mobile phone mapping requests.</string>
+    <string name="ob_desc5">Application remind employees regarding Punch Out.</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+</resources>
